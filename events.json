@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "time": "08:30 AM - 09:30 AM",
+        "title": "Opening Ceremony",
+        "desc": "Aetherion Starts",
+        "venue": "Library"
+    },
+    {
+        "id": 2,
+        "time": "09:30 AM - 11:30 AM",
+        "title": "Sigil Sanctum",
+        "desc": "Trademark",
+        "venue": "Sr. Computer Lab"
+    },
+    {
+        "id": 3,
+        "time": "09:30 AM - 11:30 AM",
+        "title": "Chronos Cut",
+        "desc": "Video Editing",
+        "venue": "Classrooms"
+    },
+    {
+        "id": 4,
+        "time": "09:30 AM- 11:30 AM",
+        "title": "Prometheus Forge",
+        "desc": "Programming",
+        "venue": "Jr. Computer Lab"
+    },
+    {
+        "id": 5,
+        "time": "09:30 AM - 11:30 AM",
+        "title": "Delphic Forum",
+        "desc": "Prompt Craft",
+        "venue": "Jr. Computer Lab"
+    },
+    {
+        "id": 6,
+        "time": "09:30 AM - 11:30 AM",
+        "title": "Da Vinci's Vault",
+        "desc": "Innovision",
+        "venue": "Classrooms"
+    },
+    {
+        "id": 7,
+        "time": "09:30 AM - 11:30 AM",
+        "title": "Arena of Ares",
+        "desc": "Robo Soccer",
+        "venue": "Basketball Court"
+    },
+    {
+        "id": 8,
+        "time": "09:30 AM - 11:30 AM",
+        "title": "Titan Clash",
+        "desc": "Robo War",
+        "venue": "Basketball Court"
+    },
+    {
+        "id": 9,
+        "time": "11:30 AM - 01:30 PM",
+        "title": "WebX Chamber",
+        "desc": "Website Development",
+        "venue": "Sr. Computer Lab"
+    },
+    {
+        "id": 10,
+        "time": "11:30 AM - 02:30 PM",
+        "title": "Hermes Run",
+        "desc": "Robo Race",
+        "venue": "Basketball Court"
+    },
+    {
+        "id": 11,
+        "time": "11:30 AM - 12:30 PM",
+        "title": "The Athena Trials (Round 1)",
+        "desc": "Quiz",
+        "venue": "Class Prelims"
+    },
+    {
+        "id": 12,
+        "time": "12:30 PM - 01:30 PM",
+        "title": "Lunch",
+        "desc": "Break time",
+        "venue": "--None--"
+    },
+    {
+        "id": 13,
+        "time": "01:30  PM - 03:00 AM",
+        "title": "The Athena Trials (Round 2)",
+        "desc": "Quiz",
+        "venue": "Library"
+    },
+    {
+        "id": 14,
+        "time": "Throughout the day",
+        "title": "Eyes of Horus",
+        "desc": "Photography",
+        "venue": "--None--"
+    },
+    {
+        "id": 15,
+        "time": "Throughout the day",
+        "title": "Pulse Ateleir",
+        "desc": "Newsletter",
+        "venue": "--None--"
+    },
+    {
+        "id": 16,
+        "time": "03:30 PM - 04:30 PM",
+        "title": "Closing Ceremony",
+        "desc": "Aetherion Ends",
+        "venue": "Library"
+    }
+]

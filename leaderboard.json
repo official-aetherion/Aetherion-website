@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "rank": 0,
+        "team": "Team1",
+        "members": [
+            "Member1",
+            "Member2"
+        ],
+        "points": 0
+    },
+    {
+        "id": 2,
+        "rank": 0,
+        "team": "Team2",
+        "members": [
+            "Member1",
+            "Member2"
+        ],
+        "points": 0
+    },
+    {
+        "id": 3,
+        "rank": 0,
+        "team": "Team3",
+        "members": [
+            "Member1",
+            "Member2"
+        ],
+        "points": 0
+    },
+    {
+        "id": 4,
+        "rank": 0,
+        "team": "Team4",
+        "members": [
+            "Member1",
+            "Member2"
+        ],
+        "points": 0
+    },
+    {
+        "id": 5,
+        "rank": 0,
+        "team": "Team5",
+        "members": [
+            "Member1",
+            "Member2"
+        ],
+        "points": 0
+    },
+    {
+        "id": 6,
+        "rank": 0,
+        "team": "Team6",
+        "members": [
+            "Member1",
+            "Member2"
+        ],
+        "points": 0
+    }
+]

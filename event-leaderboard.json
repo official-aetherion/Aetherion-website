@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1,
+        "eventTitle": "Prometheus Forge",
+        "eventDesc": "A high-stakes programming challenge where participants solve algorithmic problems under time pressure, pushing the boundaries of logic and code efficiency.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "eventTitle": "Eyes of Horus",
+        "eventDesc": "A photography competition where participants capture the essence of technology and innovation through their lens, telling stories without words.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "eventTitle": "The Delphic Forum",
+        "eventDesc": "A prompt engineering challenge where participants craft the most effective and creative AI prompts to achieve desired outcomes and demonstrate mastery of language models.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "eventTitle": "Chronos Cut",
+        "eventDesc": "A video editing battle where participants transform raw footage into compelling narratives, judged on creativity, timing, transitions, and storytelling.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "eventTitle": "Sigil Sanctum",
+        "eventDesc": "A trademark and branding competition where participants design logos and brand identities that are memorable, meaningful, and market-ready.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "eventTitle": "WebX Chamber",
+        "eventDesc": "A website development competition where teams build fully functional, visually stunning, and responsive websites from scratch within a limited timeframe.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "eventTitle": "Da Vinci's Vault",
+        "eventDesc": "An innovation showcase where participants present original technological ideas and solutions to real-world problems, judged on feasibility, originality, and impact.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "eventTitle": "Pulse Atelier",
+        "eventDesc": "A newsletter design and writing competition where teams produce a polished, publication-ready newsletter combining editorial skill with visual layout.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "eventTitle": "Hermes Run",
+        "eventDesc": "A thrilling robo race where autonomous robots navigate obstacle courses at speed, testing precision engineering, sensor design, and programming logic.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "eventTitle": "Titan Clash",
+        "eventDesc": "A robo war arena where battle-ready robots compete in head-to-head combat, showcasing durability, attack strategy, and real-time operational control.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "eventTitle": "Arena of Ares",
+        "eventDesc": "A robo soccer tournament where teams program robots to play a fully autonomous game of soccer, testing coordination, strategy, and goal-scoring intelligence.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "eventTitle": "The Athena Trials",
+        "eventDesc": "A multi-round quiz competition spanning technology, science, and general knowledge, where the sharpest minds compete for the title of supreme knowledge champion.",
+        "eventImage": "",
+        "results": [
+            {
+                "rank": 1,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 2,
+                "school": "",
+                "points": 0
+            },
+            {
+                "rank": 3,
+                "school": "",
+                "points": 0
+            }
+        ]
+    }
+]
